@@ -32,3 +32,4 @@ First, creat a github repo.
 $git remote add origin https://github.com/<github username>/<name of repo>.git
 $git push -u origin master
 ```	
+branching is awesome
