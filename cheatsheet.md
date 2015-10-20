@@ -22,3 +22,11 @@ $ git add <whatever file>
 git status
 $ git commit -m " "
 ```
+### Share my work with the world! 
+
+First, creat a github repo.
+
+```shell
+$git remote add origin https://github.com/<github username>/<name of repo>.git
+$git push -u origin master
+```	
